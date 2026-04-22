@@ -10,12 +10,6 @@ Stack: Python FastAPI · React + Vite · Tailwind CSS · Recharts
 
 ```
 hyper-mortgage/
-├── docs/
-│   ├── 01-login.png
-│   ├── 02-dashboard.png
-│   ├── 03-leads.png
-│   ├── 04-pipeline.png
-│   └── 05-analytics.png
 ├── data/
 │   └── synthetic_customers.json
 ├── backend/
