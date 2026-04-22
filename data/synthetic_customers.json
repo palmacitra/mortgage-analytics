@@ -1,0 +1,251 @@
+{
+  "customers": [
+    {
+      "id": "C001",
+      "name": "Budi Santoso",
+      "monthly_income_idr": 12000000,
+      "current_rent_idr": 3500000,
+      "location": "Jakarta Selatan",
+      "existing_debt_idr": 1200000,
+      "credit_history": "Good",
+      "age": 32,
+      "employment_type": "Karyawan Tetap"
+    },
+    {
+      "id": "C002",
+      "name": "Siti Rahayu",
+      "monthly_income_idr": 8500000,
+      "current_rent_idr": 2800000,
+      "location": "Bandung",
+      "existing_debt_idr": 500000,
+      "credit_history": "Good",
+      "age": 28,
+      "employment_type": "Karyawan Tetap"
+    },
+    {
+      "id": "C003",
+      "name": "Ahmad Fauzi",
+      "monthly_income_idr": 22000000,
+      "current_rent_idr": 7000000,
+      "location": "Jakarta Pusat",
+      "existing_debt_idr": 4500000,
+      "credit_history": "Good",
+      "age": 40,
+      "employment_type": "Profesional"
+    },
+    {
+      "id": "C004",
+      "name": "Dewi Kusumawati",
+      "monthly_income_idr": 6500000,
+      "current_rent_idr": 2000000,
+      "location": "Surabaya",
+      "existing_debt_idr": 1800000,
+      "credit_history": "Bad",
+      "age": 27,
+      "employment_type": "Karyawan Kontrak"
+    },
+    {
+      "id": "C005",
+      "name": "Hendra Gunawan",
+      "monthly_income_idr": 18000000,
+      "current_rent_idr": 5500000,
+      "location": "Jakarta Barat",
+      "existing_debt_idr": 2000000,
+      "credit_history": "Good",
+      "age": 36,
+      "employment_type": "Wirausaha"
+    },
+    {
+      "id": "C006",
+      "name": "Rina Permatasari",
+      "monthly_income_idr": 9500000,
+      "current_rent_idr": 3200000,
+      "location": "Tangerang Selatan",
+      "existing_debt_idr": 800000,
+      "credit_history": "Good",
+      "age": 30,
+      "employment_type": "Karyawan Tetap"
+    },
+    {
+      "id": "C007",
+      "name": "Joko Pramono",
+      "monthly_income_idr": 5500000,
+      "current_rent_idr": 1800000,
+      "location": "Bekasi",
+      "existing_debt_idr": 2200000,
+      "credit_history": "Bad",
+      "age": 25,
+      "employment_type": "Karyawan Kontrak"
+    },
+    {
+      "id": "C008",
+      "name": "Lestari Widodo",
+      "monthly_income_idr": 14500000,
+      "current_rent_idr": 4500000,
+      "location": "Jakarta Timur",
+      "existing_debt_idr": 1500000,
+      "credit_history": "Good",
+      "age": 38,
+      "employment_type": "Karyawan Tetap"
+    },
+    {
+      "id": "C009",
+      "name": "Rudi Hartono",
+      "monthly_income_idr": 28000000,
+      "current_rent_idr": 9000000,
+      "location": "Jakarta Selatan",
+      "existing_debt_idr": 3000000,
+      "credit_history": "Good",
+      "age": 45,
+      "employment_type": "Direktur"
+    },
+    {
+      "id": "C010",
+      "name": "Anita Maharani",
+      "monthly_income_idr": 11000000,
+      "current_rent_idr": 3800000,
+      "location": "Depok",
+      "existing_debt_idr": 600000,
+      "credit_history": "Good",
+      "age": 31,
+      "employment_type": "Karyawan Tetap"
+    },
+    {
+      "id": "C011",
+      "name": "Bambang Setiawan",
+      "monthly_income_idr": 7200000,
+      "current_rent_idr": 2500000,
+      "location": "Bandung",
+      "existing_debt_idr": 3200000,
+      "credit_history": "Bad",
+      "age": 35,
+      "employment_type": "Wirausaha"
+    },
+    {
+      "id": "C012",
+      "name": "Kartika Sari",
+      "monthly_income_idr": 16000000,
+      "current_rent_idr": 5200000,
+      "location": "Tangerang Selatan",
+      "existing_debt_idr": 1000000,
+      "credit_history": "Good",
+      "age": 33,
+      "employment_type": "Profesional"
+    },
+    {
+      "id": "C013",
+      "name": "Doni Prakoso",
+      "monthly_income_idr": 5000000,
+      "current_rent_idr": 1500000,
+      "location": "Bekasi",
+      "existing_debt_idr": 2800000,
+      "credit_history": "Bad",
+      "age": 24,
+      "employment_type": "Karyawan Kontrak"
+    },
+    {
+      "id": "C014",
+      "name": "Yuliani Putri",
+      "monthly_income_idr": 20500000,
+      "current_rent_idr": 6800000,
+      "location": "Jakarta Utara",
+      "existing_debt_idr": 2500000,
+      "credit_history": "Good",
+      "age": 41,
+      "employment_type": "Manajer Senior"
+    },
+    {
+      "id": "C015",
+      "name": "Wahyu Prasetya",
+      "monthly_income_idr": 13000000,
+      "current_rent_idr": 4200000,
+      "location": "Surabaya",
+      "existing_debt_idr": 700000,
+      "credit_history": "Good",
+      "age": 29,
+      "employment_type": "Karyawan Tetap"
+    }
+  ],
+  "property_prices_per_district": {
+    "Jakarta Selatan": {
+      "price_per_sqm": 32000000,
+      "avg_type36_price": 1200000000,
+      "avg_type45_price": 1800000000,
+      "avg_type60_price": 2400000000,
+      "kpr_interest_rate_annual": 0.0775,
+      "description": "Kawasan premium bisnis dan residensial"
+    },
+    "Jakarta Pusat": {
+      "price_per_sqm": 38000000,
+      "avg_type36_price": 1400000000,
+      "avg_type45_price": 2100000000,
+      "avg_type60_price": 2800000000,
+      "kpr_interest_rate_annual": 0.0775,
+      "description": "Jantung kota dengan aksesibilitas tinggi"
+    },
+    "Jakarta Barat": {
+      "price_per_sqm": 22000000,
+      "avg_type36_price": 820000000,
+      "avg_type45_price": 1200000000,
+      "avg_type60_price": 1600000000,
+      "kpr_interest_rate_annual": 0.0775,
+      "description": "Kawasan industri dan residensial campuran"
+    },
+    "Jakarta Timur": {
+      "price_per_sqm": 18000000,
+      "avg_type36_price": 680000000,
+      "avg_type45_price": 980000000,
+      "avg_type60_price": 1300000000,
+      "kpr_interest_rate_annual": 0.0775,
+      "description": "Kawasan residensial terjangkau timur Jakarta"
+    },
+    "Jakarta Utara": {
+      "price_per_sqm": 25000000,
+      "avg_type36_price": 920000000,
+      "avg_type45_price": 1350000000,
+      "avg_type60_price": 1800000000,
+      "kpr_interest_rate_annual": 0.0775,
+      "description": "Kawasan pelabuhan dan perumahan modern"
+    },
+    "Tangerang Selatan": {
+      "price_per_sqm": 15000000,
+      "avg_type36_price": 560000000,
+      "avg_type45_price": 820000000,
+      "avg_type60_price": 1100000000,
+      "kpr_interest_rate_annual": 0.0775,
+      "description": "BSD City dan kawasan suburban premium"
+    },
+    "Bekasi": {
+      "price_per_sqm": 11000000,
+      "avg_type36_price": 420000000,
+      "avg_type45_price": 620000000,
+      "avg_type60_price": 820000000,
+      "kpr_interest_rate_annual": 0.0775,
+      "description": "Kawasan industri dan perumahan terjangkau"
+    },
+    "Depok": {
+      "price_per_sqm": 12500000,
+      "avg_type36_price": 470000000,
+      "avg_type45_price": 690000000,
+      "avg_type60_price": 920000000,
+      "kpr_interest_rate_annual": 0.0775,
+      "description": "Kota penyangga Jakarta selatan dengan kampus UI"
+    },
+    "Bandung": {
+      "price_per_sqm": 14000000,
+      "avg_type36_price": 520000000,
+      "avg_type45_price": 760000000,
+      "avg_type60_price": 1020000000,
+      "kpr_interest_rate_annual": 0.0775,
+      "description": "Kota kembang dengan iklim sejuk dan gaya hidup"
+    },
+    "Surabaya": {
+      "price_per_sqm": 16500000,
+      "avg_type36_price": 610000000,
+      "avg_type45_price": 900000000,
+      "avg_type60_price": 1200000000,
+      "kpr_interest_rate_annual": 0.0775,
+      "description": "Pusat bisnis Jawa Timur dan kota terbesar ke-2"
+    }
+  }
+}

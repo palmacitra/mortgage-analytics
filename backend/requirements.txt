@@ -1,0 +1,6 @@
+# Hyper Mortgage Agentic Tool — Backend dependencies
+# Minimal footprint for 4 GB RAM environment
+
+fastapi==0.111.1
+uvicorn[standard]==0.30.1
+pydantic==2.8.2
