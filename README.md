@@ -6,25 +6,6 @@ Stack: Python FastAPI · React + Vite · Tailwind CSS · Recharts
 
 ---
 
-## Visual Overview
-
-### Login
-![Login Screen](docs/01-login.png)
-
-### Dashboard — KPR Analysis Engine
-![Dashboard](docs/02-dashboard.png)
-
-### Leads Management
-![Leads](docs/03-leads.png)
-
-### Pipeline — Kanban View
-![Pipeline](docs/04-pipeline.png)
-
-### Analytics
-![Analytics](docs/05-analytics.png)
-
----
-
 ## Structure
 
 ```
